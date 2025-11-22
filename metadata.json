@@ -1,0 +1,5 @@
+{
+  "name": "Neon Bangla TTS",
+  "description": "A high-performance, neon-styled Text-to-Speech application optimized for Bengali language, featuring multiple voice profiles and long-text support using Gemini 2.5.",
+  "requestFramePermissions": []
+}
